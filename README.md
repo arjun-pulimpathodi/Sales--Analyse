@@ -3,3 +3,5 @@ In this projects I used python pandas & matplotlib to analyze and answer busines
 The data contain thousands of electronic store purchase broken down by month, product type,cost,purchase address etc.
 
 Platform: Jupyter Notebook
+
+Repository Consists of python file and 12 months sales data
